@@ -3,4 +3,3 @@ scipy
 matplotlib
 vtk
 mayavi
-os

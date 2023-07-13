@@ -1,7 +1,5 @@
 numpy
 scipy
 matplotlib
-pyqt
-pyvista
 vtk
 mayavi

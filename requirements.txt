@@ -1,5 +1,5 @@
 numpy
 scipy
 matplotlib
-vtk
 mayavi
+PyQt5
